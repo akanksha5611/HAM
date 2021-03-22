@@ -71,6 +71,18 @@ p {
   margin-top: 0;
   margin-bottom: 1rem; }
 
+  /* .container {
+    padding: 50px;
+    position: relative;
+    font-family: Arial;
+    background-color: #717171
+}
+.slideshow-container {
+    max-width: 400px;
+    position: relative;
+    margin: auto;
+  } */
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
