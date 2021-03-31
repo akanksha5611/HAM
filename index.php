@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php
+'<!DOCTYPE html>
 <html lang="en">
 	<style>
 		*{   
@@ -769,4 +770,5 @@
   <script src="js/main.js"></script>
     
   </body>
-</html>
+</html>'
+?>
