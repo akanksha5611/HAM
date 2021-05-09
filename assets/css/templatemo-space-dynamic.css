@@ -1,39 +1,6 @@
-/* 
 
-TemplateMo 562 Space Dynamic
-
-https://templatemo.com/tm-562-space-dynamic
-
-*/
-
-/* ---------------------------------------------
-Table of contents
-------------------------------------------------
-01. font & reset css
-02. reset
-03. global styles
-04. header
-05. banner
-06. features
-07. testimonials
-08. contact
-09. footer
-10. preloader
-11. search
-12. portfolio
-
---------------------------------------------- */
-/* 
----------------------------------------------
-font & reset css
---------------------------------------------- 
-*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
-/* 
----------------------------------------------
-reset
---------------------------------------------- 
-*/
+
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
@@ -147,7 +114,7 @@ body {
 }
 
 ::selection {
-  background: #03a4ed;
+  background: #18d26e;
   color: #fff;
 }
 
@@ -189,11 +156,11 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #03a4ed;
+  color:#18d26e;
 }
 
 .section-heading h2 span {
-  color: #fe3f40;
+  color: #18d26e;
 }
 
 .main-blue-button a {
@@ -796,7 +763,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #fe3f40;
+    background: #18d26e;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -819,7 +786,7 @@ preloader
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #fe3f40;
+    background: #18d26e;
     border-radius: 50%;
 }
 
@@ -881,12 +848,12 @@ Banner Style
 }
 
 .main-banner .left-content h2 em {
-  color: #03a4ed;
+  color: #18d26e;
   font-style: normal;
 }
 
 .main-banner .left-content h2 span {
-  color: #fe3f40;
+  color: #18d26e;
 }
 
 .main-banner .left-content p {
@@ -920,7 +887,7 @@ Banner Style
 .main-banner .left-content form input {
   width: 470px;
   height: 66px;
-  background-color: #03a4ed;
+  background-color: #18d26e;
   border-radius: 33px;
   border: none;
   outline: none;
@@ -1019,7 +986,7 @@ Services Style
   top: 0;
   font-size: 18px;
   font-weight: 600;
-  color: #03a4ed;
+  color: #18d26e;
 }
 
 .our-services .first-bar span {
@@ -1051,8 +1018,8 @@ Services Style
 }
 
 .our-services .progress-skill-bar .filled-bar {
-  background: rgb(255,77,30);
-  background: linear-gradient(105deg, rgba(255,77,30,1) 0%, rgba(255,44,109,1) 100%);
+  background: #18d26e;
+  background: linear-gradient(105deg, #18d26e 0%, #18d26e 100%);
   height: 6px;
   border-radius: 3px;
   margin-bottom: -6px;
@@ -1107,8 +1074,8 @@ Portfolio
 }
 
 .our-portfolio .hidden-content {
-  background: rgb(255,77,30);
-  background: linear-gradient(105deg, rgba(255,77,30,1) 0%, rgba(255,44,109,1) 100%);
+  background: #18d26e;
+  background: linear-gradient(105deg, #18d26e 0%, #18d26e 100%);
   padding: 30px;
   border-radius: 20px;
   text-align: center;
@@ -1396,7 +1363,7 @@ form#contact textarea::placeholder {
 
 form#contact button {
   display: inline-block;
-  background-color: #03a4ed;
+  background-color: #18d26e;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -1476,8 +1443,8 @@ responsive
     text-align: center;
   }
   .about-us .services .item  {
-    background: rgb(255,77,30);
-    background: linear-gradient(105deg, rgba(255,77,30,1) 0%, rgba(255,44,109,1) 100%);
+    background: #18d26e;
+    background: linear-gradient(105deg, #18d26e 0%, #18d26e 100%);
     padding: 30px;
     border-radius: 20px;
     display: inline-block;
