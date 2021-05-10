@@ -165,7 +165,7 @@ body {
 
 .main-blue-button a {
   display: inline-block;
-  background-color: #03a4ed;
+  background-color: #18d26e;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -177,7 +177,7 @@ body {
 
 .main-red-button a {
   display: inline-block;
-  background-color: #fe3f40;
+  background-color: #18d26e;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -875,7 +875,7 @@ Banner Style
   background-color: #fff;
   font-size: 15px;
   font-weight: 500;
-  color: #fe3f40;
+  color: #18d26e;
   text-transform: capitalize;
   padding: 12px 25px;
   border-radius: 23px;
@@ -1363,7 +1363,7 @@ form#contact textarea::placeholder {
 
 form#contact button {
   display: inline-block;
-  background-color: #18d26e;
+  background-color: #000;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -1377,7 +1377,7 @@ form#contact button {
 }
 
 form#contact button:hover {
-  background-color: #fe3f40;
+  background-color: #3B566E;
 }
 
 
@@ -1393,7 +1393,7 @@ footer p {
 }
 
 footer p a {
-  color: #fe3f40;
+  color: #18d26e;
 }
 
 /* 
