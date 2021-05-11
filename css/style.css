@@ -1134,18 +1134,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member .member-info-content {
   margin-top: -50px;
-  transition: margin 0.2s;
+  transition: margin 0.5s;
 }
 
 #team .member:hover .member-info {
   background: rgba(0, 0, 0, 0.7);
   visibility: visible;
-  transition: 0.4s;
+  transition: 0.5s;
 }
 
 #team .member:hover .member-info-content {
   margin-top: 0;
-  transition: margin 0.4s;
+  transition: margin 0.5s;
 }
 
 #team .member h4 {
