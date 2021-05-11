@@ -959,7 +959,7 @@ Services Style
 
 .our-services {
   margin-top: 0px;
-  padding-top: 120px;
+  padding-top: 30x;
 }
 
 .our-services .left-image {
@@ -971,8 +971,8 @@ Services Style
 }
 
 .our-services .section-heading p {
-  margin-top: 30px;
-  margin-bottom: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .our-services .progress-skill-bar {
@@ -1047,7 +1047,7 @@ Portfolio
 */
 
 .our-portfolio {
-  padding-top: 120px;
+  padding-top: 50px;
   margin-top: 0px;
 }
 
