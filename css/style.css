@@ -1181,9 +1181,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Contact Section
 --------------------------------*/
-#contact {
+/* #contact {
   padding: 60px 0;
-}
+} */
 
 #contact .contact-info {
   margin-bottom: 20px;
@@ -1207,7 +1207,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #999;
+  color: #000;
 }
 
 #contact .contact-info a {

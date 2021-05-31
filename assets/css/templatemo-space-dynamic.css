@@ -1385,7 +1385,7 @@ contact
 */
 
 .contact-us {
-  padding: 160px 0px;
+  padding: 150px 0px;
   background-image: url(../images/contact-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
@@ -1396,6 +1396,7 @@ contact
 .contact-us .section-heading h2 em,
 .contact-us .section-heading h2 span {
   color: #fff;
+  padding-left: 170px;
 }
 
 .contact-us .section-heading p {
@@ -1405,6 +1406,7 @@ contact
 
 .phone-info {
   margin-top: 40px;
+  padding-left: 175px;
 }
 
 .phone-info h4 {
@@ -1427,10 +1429,34 @@ contact
   margin-right: 15px;
 }
 
+.phone-info span i {
+  width: 46px;
+  height: 46px;
+  display: inline-block;
+  text-align: center;
+  line-height: 46px;
+  background-color: #fff;
+  border-radius: 50%;
+  color: #ff3b2c;
+  font-size: 22px;
+  margin-left: 30px;
+  margin-right: 15px;
+}
+
 .phone-info h4 span a {
   color: #fff;
   font-size: 15px;
   font-weight: 400;
+}
+
+.phone-info span a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+}
+form#contact h4 {
+  color: #fff;
+  font: bolder;
 }
 
 form#contact .contact-dec {
@@ -1446,7 +1472,7 @@ form#contact .contact-dec img {
 form#contact {
   margin-left: 30px;
   position: relative;
-  background-color: #fff;
+  /* background-color: #fff; */
   padding: 60px 30px;
   border-radius: 20px;
 }
@@ -1507,7 +1533,7 @@ form#contact button {
 }
 
 form#contact button:hover {
-  background-color: #3B566E;
+  background-color: #18d26e;
 }
 
 
