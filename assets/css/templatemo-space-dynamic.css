@@ -1536,6 +1536,10 @@ form#contact button:hover {
   background-color: #18d26e;
 }
 
+#png {
+  height: 50px;
+  width: 50px;
+}
 
 /* 
 ---------------------------------------------
