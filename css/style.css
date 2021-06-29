@@ -524,6 +524,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 700;
   position: relative;
   padding-bottom: 15px;
+  padding-top: 1.5rem;
 }
 
 .section-header h3::before {
@@ -1429,7 +1430,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul li:first-child {
-  padding-top: 0.6rem;
+  padding-top: 0.8rem;
 }
 
 #footer .footer-top .footer-links ul a {
@@ -1447,6 +1448,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .footer-top .footer-contact p {
   line-height: 26px;
   color: white;
+  text-align: inherit;
 }
 
 #footer .footer-top .footer-newsletter {

@@ -1724,7 +1724,9 @@ responsive
     padding: 120px 0px;
   }
   .contact-us .section-heading {
-    text-align: center;
+    text-align: right;
+    margin-left: -167px;
+    text-align: right;
   }
   form#contact {
     margin-left: 0px;
