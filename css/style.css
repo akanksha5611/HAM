@@ -1429,7 +1429,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul li:first-child {
-  padding-top: 0;
+  padding-top: 0.6rem;
 }
 
 #footer .footer-top .footer-links ul a {
