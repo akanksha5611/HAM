@@ -64,6 +64,21 @@ h6 {
   }
 }
 
+/* ScrollBar*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(34, 255, 0, 0.789);
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(34, 255, 0);
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
