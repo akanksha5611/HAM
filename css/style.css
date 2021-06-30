@@ -72,11 +72,11 @@ h6 {
   background: #000000;
 }
 ::-webkit-scrollbar-thumb {
-  background: rgba(34, 255, 0, 0.789);
+  background: #13a456;
   border-radius: 50px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: rgb(34, 255, 0);
+  background: #18d26e;
 }
 
 /*--------------------------------------------------------------
