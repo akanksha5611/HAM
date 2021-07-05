@@ -1503,3 +1503,43 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+
+.wa-button {
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  background-color: #4dc247;
+  position: fixed;
+  bottom: 15px;
+  left: 20px;
+  z-index: 999;
+  cursor: pointer;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.578);
+}
+.wa-button a {
+  color: white;
+  position: absolute;
+  left: 12px;
+  top: 1.5px;
+  font-size: 2.2rem;
+}
+
+.wa-button .msg {
+  background-color: #4dc247;
+  position: absolute;
+  width: 135px;
+  left: 70px;
+  top: 10px;
+  padding: 5px;
+  color: white;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  padding-left: 8px;
+  visibility: hidden;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.578);
+}
+
+.wa-button:hover .msg {
+  visibility: visible;
+}
