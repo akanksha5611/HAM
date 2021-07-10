@@ -1024,6 +1024,7 @@ Services Style
 .our-services {
   margin-top: 0px;
   padding-top: 50x;
+  overflow: hidden;
 }
 
 .our-services .left-image {
